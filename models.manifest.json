@@ -1,0 +1,45 @@
+{
+  "manifestVersion": 1,
+  "package": "ae-models-raid",
+  "convention": {
+    "forward": "+Z",
+    "up": "+Y"
+  },
+  "models": [
+    {
+      "file": "models/raid/ae_raid_trophy_banner_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "trophy",
+      "note": "cosmetic raid trophy; LOD1/LOD2 siblings"
+    },
+    {
+      "file": "models/raid/ae_raid_trophy_pelt_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "trophy",
+      "note": "cosmetic raid trophy, draped-fur silhouette; LOD1/LOD2 siblings"
+    },
+    {
+      "file": "models/raid/ae_raid_decal_aoe_ring_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "decal",
+      "note": "ground telegraph; RGBA alphaMode BLEND, doubleSided; place at y\u22480; LOD1/LOD2 siblings"
+    },
+    {
+      "file": "models/raid/ae_raid_decal_aoe_cone_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "decal",
+      "note": "ground telegraph, soft fill + bright edge along +Z; RGBA BLEND; LOD1/LOD2 siblings"
+    },
+    {
+      "file": "models/raid/ae_raid_decal_aim_line_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "decal",
+      "note": "ground telegraph, cyan fade + tip along +Z; RGBA BLEND; LOD1/LOD2 siblings"
+    }
+  ]
+}
